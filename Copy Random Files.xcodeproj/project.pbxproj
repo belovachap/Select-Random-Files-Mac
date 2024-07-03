@@ -14,7 +14,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		E63D289C2C34274D006B2842 /* Select Random Files Mac.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Select Random Files Mac.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		E63D289C2C34274D006B2842 /* Copy Random Files.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Copy Random Files.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E63D289F2C34274D006B2842 /* Select_Random_Files_MacApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Select_Random_Files_MacApp.swift; sourceTree = "<group>"; };
 		E63D28A12C34274D006B2842 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		E63D28A32C34274F006B2842 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -44,7 +44,7 @@
 		E63D289D2C34274D006B2842 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				E63D289C2C34274D006B2842 /* Select Random Files Mac.app */,
+				E63D289C2C34274D006B2842 /* Copy Random Files.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -72,9 +72,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		E63D289B2C34274D006B2842 /* Select Random Files Mac */ = {
+		E63D289B2C34274D006B2842 /* Copy Random Files */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E63D28AB2C34274F006B2842 /* Build configuration list for PBXNativeTarget "Select Random Files Mac" */;
+			buildConfigurationList = E63D28AB2C34274F006B2842 /* Build configuration list for PBXNativeTarget "Copy Random Files" */;
 			buildPhases = (
 				E63D28982C34274D006B2842 /* Sources */,
 				E63D28992C34274D006B2842 /* Frameworks */,
@@ -84,9 +84,9 @@
 			);
 			dependencies = (
 			);
-			name = "Select Random Files Mac";
+			name = "Copy Random Files";
 			productName = "Select Random Files Mac";
-			productReference = E63D289C2C34274D006B2842 /* Select Random Files Mac.app */;
+			productReference = E63D289C2C34274D006B2842 /* Copy Random Files.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -104,7 +104,7 @@
 					};
 				};
 			};
-			buildConfigurationList = E63D28972C34274D006B2842 /* Build configuration list for PBXProject "Select Random Files Mac" */;
+			buildConfigurationList = E63D28972C34274D006B2842 /* Build configuration list for PBXProject "Copy Random Files" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -117,7 +117,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				E63D289B2C34274D006B2842 /* Select Random Files Mac */,
+				E63D289B2C34274D006B2842 /* Copy Random Files */,
 			);
 		};
 /* End PBXProject section */
@@ -326,7 +326,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		E63D28972C34274D006B2842 /* Build configuration list for PBXProject "Select Random Files Mac" */ = {
+		E63D28972C34274D006B2842 /* Build configuration list for PBXProject "Copy Random Files" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E63D28A92C34274F006B2842 /* Debug */,
@@ -335,7 +335,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		E63D28AB2C34274F006B2842 /* Build configuration list for PBXNativeTarget "Select Random Files Mac" */ = {
+		E63D28AB2C34274F006B2842 /* Build configuration list for PBXNativeTarget "Copy Random Files" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E63D28AC2C34274F006B2842 /* Debug */,

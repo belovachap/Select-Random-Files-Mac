@@ -16,9 +16,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "E63D289B2C34274D006B2842"
-               BuildableName = "Select Random Files Mac.app"
-               BlueprintName = "Select Random Files Mac"
-               ReferencedContainer = "container:Select Random Files Mac.xcodeproj">
+               BuildableName = "Copy Random Files.app"
+               BlueprintName = "Copy Random Files"
+               ReferencedContainer = "container:Copy Random Files.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -45,9 +45,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E63D289B2C34274D006B2842"
-            BuildableName = "Select Random Files Mac.app"
-            BlueprintName = "Select Random Files Mac"
-            ReferencedContainer = "container:Select Random Files Mac.xcodeproj">
+            BuildableName = "Copy Random Files.app"
+            BlueprintName = "Copy Random Files"
+            ReferencedContainer = "container:Copy Random Files.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -62,9 +62,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E63D289B2C34274D006B2842"
-            BuildableName = "Select Random Files Mac.app"
-            BlueprintName = "Select Random Files Mac"
-            ReferencedContainer = "container:Select Random Files Mac.xcodeproj">
+            BuildableName = "Copy Random Files.app"
+            BlueprintName = "Copy Random Files"
+            ReferencedContainer = "container:Copy Random Files.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
