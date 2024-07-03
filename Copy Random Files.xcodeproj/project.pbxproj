@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		E63D28A02C34274D006B2842 /* Select_Random_Files_MacApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E63D289F2C34274D006B2842 /* Select_Random_Files_MacApp.swift */; };
+		E63D28A02C34274D006B2842 /* Copy_Random_FilesApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E63D289F2C34274D006B2842 /* Copy_Random_FilesApp.swift */; };
 		E63D28A22C34274D006B2842 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E63D28A12C34274D006B2842 /* ContentView.swift */; };
 		E63D28A42C34274F006B2842 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E63D28A32C34274F006B2842 /* Assets.xcassets */; };
 		E63D28A72C34274F006B2842 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E63D28A62C34274F006B2842 /* Preview Assets.xcassets */; };
@@ -15,11 +15,11 @@
 
 /* Begin PBXFileReference section */
 		E63D289C2C34274D006B2842 /* Copy Random Files.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Copy Random Files.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		E63D289F2C34274D006B2842 /* Select_Random_Files_MacApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Select_Random_Files_MacApp.swift; sourceTree = "<group>"; };
+		E63D289F2C34274D006B2842 /* Copy_Random_FilesApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Copy_Random_FilesApp.swift; sourceTree = "<group>"; };
 		E63D28A12C34274D006B2842 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		E63D28A32C34274F006B2842 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E63D28A62C34274F006B2842 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		E63D28A82C34274F006B2842 /* Select_Random_Files_Mac.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Select_Random_Files_Mac.entitlements; sourceTree = "<group>"; };
+		E63D28A82C34274F006B2842 /* Copy_Random_Files.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Copy_Random_Files.entitlements; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -36,7 +36,7 @@
 		E63D28932C34274D006B2842 = {
 			isa = PBXGroup;
 			children = (
-				E63D289E2C34274D006B2842 /* Select Random Files Mac */,
+				E63D289E2C34274D006B2842 /* Copy Random Files */,
 				E63D289D2C34274D006B2842 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -49,16 +49,16 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		E63D289E2C34274D006B2842 /* Select Random Files Mac */ = {
+		E63D289E2C34274D006B2842 /* Copy Random Files */ = {
 			isa = PBXGroup;
 			children = (
-				E63D289F2C34274D006B2842 /* Select_Random_Files_MacApp.swift */,
+				E63D289F2C34274D006B2842 /* Copy_Random_FilesApp.swift */,
 				E63D28A12C34274D006B2842 /* ContentView.swift */,
 				E63D28A32C34274F006B2842 /* Assets.xcassets */,
-				E63D28A82C34274F006B2842 /* Select_Random_Files_Mac.entitlements */,
+				E63D28A82C34274F006B2842 /* Copy_Random_Files.entitlements */,
 				E63D28A52C34274F006B2842 /* Preview Content */,
 			);
-			path = "Select Random Files Mac";
+			path = "Copy Random Files";
 			sourceTree = "<group>";
 		};
 		E63D28A52C34274F006B2842 /* Preview Content */ = {
@@ -140,7 +140,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E63D28A22C34274D006B2842 /* ContentView.swift in Sources */,
-				E63D28A02C34274D006B2842 /* Select_Random_Files_MacApp.swift in Sources */,
+				E63D28A02C34274D006B2842 /* Copy_Random_FilesApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -271,11 +271,11 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = NO;
-				CODE_SIGN_ENTITLEMENTS = "Select Random Files Mac/Select_Random_Files_Mac.entitlements";
+				CODE_SIGN_ENTITLEMENTS = "Copy Random Files/Copy_Random_Files.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"Select Random Files Mac/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"Copy Random Files/Preview Content\"";
 				DEVELOPMENT_TEAM = 25TJSY8LN8;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
@@ -287,7 +287,7 @@
 					"@executable_path/../Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.chapmanshoop.Select-Random-Files-Mac";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.chapmanshoop.Copy-Random-Files";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -300,11 +300,11 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = NO;
-				CODE_SIGN_ENTITLEMENTS = "Select Random Files Mac/Select_Random_Files_Mac.entitlements";
+				CODE_SIGN_ENTITLEMENTS = "Copy Random Files/Copy_Random_Files.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"Select Random Files Mac/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"Copy Random Files/Preview Content\"";
 				DEVELOPMENT_TEAM = 25TJSY8LN8;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
@@ -316,7 +316,7 @@
 					"@executable_path/../Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.chapmanshoop.Select-Random-Files-Mac";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.chapmanshoop.Copy-Random-Files";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
